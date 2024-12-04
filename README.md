@@ -1,2 +1,2 @@
 # Mpika-University
-Mpika university colledge websity
+Mpika university colledge website
